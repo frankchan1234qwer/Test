@@ -28,7 +28,7 @@ public class Main2Activity extends AppCompatActivity {
 
 
     void test(){
-        int x=0;
+        int x=1;
     }
 
 }
